@@ -1,3 +1,3 @@
-Foodhuts Free Bootstrap Restaurant Template for personal and commercial use.
+Foodhuts Free Restaurant for personal and commercial use.
 
 
